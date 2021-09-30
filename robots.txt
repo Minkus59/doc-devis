@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://devis.3donweb.fr/sitemap.xml
